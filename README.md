@@ -9,7 +9,7 @@ Add the following dependencies:
   transformers==4.48.0
 
 # 2.) **Install Dependencies** - 
-Run the following command in your Colab notebook to install the required packages: 
+Run the following command in your Colab notebook to install the required packages: \n
 !pip install -r requirements.txt
 
 # 3.) **Obtain a Hugging Face Access Token** - 
