@@ -22,4 +22,4 @@ Create a file named config.json with the following content:<br>  {"HF_TOKEN" : "
   Execute the following command in your Colab notebook:<br>  !huggingface-cli login
 
 # **Important Note:** - 
-1.) Access Requirement: LLaMA 3.2 1B is a gated repository. Ensure you request and receive access from Hugging Face; otherwise, the model will throw an error.<br>  2.) Change your runtime from CPU too T4 GPU in colab.
+1.) Access Requirement: LLaMA 3.2 1B is a gated repository. Ensure you request and receive access from Hugging Face; otherwise, the model will throw an error.<br>  2.) Change your runtime from 'CPU' to 'T4 GPU' in colab.
