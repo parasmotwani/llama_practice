@@ -26,4 +26,5 @@ Execute the following command in your Colab notebook:
   !huggingface-cli login
 
 # **Important Note:** - 
-Access Requirement: LLaMA 3.2 1B is a gated repository. Ensure you request and receive access from Hugging Face; otherwise, the model will throw an error.
+1.) Access Requirement: LLaMA 3.2 1B is a gated repository. Ensure you request and receive access from Hugging Face; otherwise, the model will throw an error.
+2.) Change your runtime from CPU too T4 GPU in colab.
