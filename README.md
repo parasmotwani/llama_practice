@@ -12,7 +12,7 @@ Add the following dependencies:<br>
 Run the following command in your Colab notebook to install the required packages:<br>!pip install -r requirements.txt
 
 # 3.) **Obtain a Hugging Face Access Token** - 
-Log in to your Hugging Face account.<br>  
+Log in to your Hugging Face account.<br>
 Create an Access Token in your account settings.<br>  [https://huggingface.co/settings/tokens]  Copy the token.
 
 # 4.) **Create a config.json file** in colab - 
