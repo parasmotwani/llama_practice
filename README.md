@@ -10,7 +10,7 @@ Add the following dependencies:
 
 2.) **Install Dependencies** 
 Run the following command in your Colab notebook to install the required packages: 
-  !pip install -r requirements.txt
+!pip install -r requirements.txt
 
 3.) **Obtain a Hugging Face Access Token**
 Log in to your Hugging Face account.
